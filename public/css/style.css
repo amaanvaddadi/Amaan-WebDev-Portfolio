@@ -1,1 +1,10 @@
 /* YOUR CUSTOM STYLES */
+
+h1 {
+ padding-top: 10px;
+ color: yellow;
+}
+
+.title {
+ color: black;
+}
