@@ -1,17 +1,21 @@
-/* YOUR CUSTOM STYLES */
+ /* YOUR CUSTOM STYLES */
 
-h1 {
- padding-top: 10px;
- color: yellow;
-}
+ h1 {
+  padding-top: 10px;
+  color: white;
+ }
 
-.title {
- color: black;
-}
+ .title {
+  color: black;
+ }
 
-.fa {
- color: black;
- margin: 2px;
-}
+ .fa {
+  color: black;
+  margin: 2px;
+ }
 
-.name-div {}
+ .demo-card {
+  width: 80%;
+  max-width: 500px;
+  margin: 0 auto 10px;
+ }
