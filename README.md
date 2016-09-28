@@ -6,12 +6,16 @@ Hi. I am a Full Stack Developer and this my portfolio page. My plan is to have a
 
 Amaan Vaddadi
 
-Full Stack Developer
-Enspiral Dev Academy
-Wellington , NZ
+Full Stack Developer,
+Enspiral Dev Academy,
+Wellington , NZ.
 
 # Technology
 
+Basic HTML, CSS and Javascript.
+
 Use Material UI for components and bootstrap framework.
+
+#Plan
 
   
