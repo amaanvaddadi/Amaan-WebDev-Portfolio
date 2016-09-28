@@ -9,6 +9,9 @@ h1 {
  color: black;
 }
 
-.name-div {
- border: 1px solid white
+.fa {
+ color: black;
+ margin: 2px;
 }
+
+.name-div {}
