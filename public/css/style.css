@@ -7,7 +7,7 @@
  }
 
  .title {
-  color: crimson;
+  color: deeppink;
  }
 
  .fa {
@@ -51,4 +51,8 @@
 
  .carousel-indicators li {
   background-color: black;
+ }
+
+ .knowme {
+  color: black;
  }
